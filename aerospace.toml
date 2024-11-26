@@ -160,7 +160,7 @@ ctrl-alt-shift-j = ['join-with down', 'mode main']
 ctrl-alt-shift-k = ['join-with up', 'mode main']
 ctrl-alt-shift-l = ['join-with right', 'mode main']
 
-ctrl-alt-shift-s='list-workspaces --monitor all'
+# ctrl-alt-shift-s='list-workspaces --monitor all'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#mode
 # alt-shift-semicolon = 'mode service'
